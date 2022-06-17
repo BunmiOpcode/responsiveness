@@ -25,7 +25,7 @@ body{
 }
 main{
     background-color: var(--pry-red);
-    background-image: url("bg-intro-mobile.png");
+    background-image: url("//bg-intro-mobile.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
